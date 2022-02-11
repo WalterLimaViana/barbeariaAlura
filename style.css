@@ -1,6 +1,6 @@
 header {
   background: #bbbbbb;
-  padding: 20px 0;
+  padding: 10px 0;
 }
 .caixa {
   width: 940px;
@@ -62,6 +62,7 @@ em strong {
   vertical-align: top;
   width: 20%;
   margin-right: 15%;
+  margin-top: 30px;
 }
 #missao {
   font-size: 20px;
@@ -81,10 +82,12 @@ em strong {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 13px;
+  padding: 2px 0;
+  margin-left: 20px;
 }
 .beneficios {
   background: #ffffff;
-  padding: 20px;
+  padding: 40px;
 }
 .imgbenef {
   width: 50%;
